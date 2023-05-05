@@ -1,20 +1,21 @@
 # Rafaela Oliveira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Rafaela</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
-
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+![giphy](https://user-images.githubusercontent.com/132613783/236529489-df6f12c2-77a3-400e-97b6-a22035286522.gif)
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</div>
 
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+
+Eu sou <strong>Rafaela</strong>, <strong>sou apaixonada por viajar, explorar novos lugares e experimentar novas culturas. Além disso, sou amante de filmes, música e tecnologia. Estou sempre em busca de novas inspirações e tentando aprender algo novo todos os dias.</strong> 👨🏻‍💻 
+
+- 🚀 Atualmente estou estudando: <strong>Javascript.</strong> 
+- 💬 Pergunte-me sobre: <strong>Jogos de tabuleiro, filmes, música. </strong>
+- 📣 Nós podemos falar em: <strong> Português, inglês e espanhol.</strong>
+
+<div align="center">
+
+  ![RafaelaODSantos's Stats](https://github-readme-stats.vercel.app/api?username=RafaelaODSantos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 </div>
